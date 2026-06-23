@@ -45,6 +45,18 @@ Passionate about Web Development, AI, and Building Real-World Applications 🚀
 
 ---
 
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/harshita-onkar-fullstackdeveloper/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/HarshitaOnkar">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🎯 Placement Readiness Platform
@@ -58,20 +70,6 @@ Backend system for managing courses and students.
 
 ### 💼 AI Resume Builder
 AI-powered resume creation and customization platform.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/harshita-onkar-fullstackdeveloper/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HarshitaOnkar" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 ---
 
