@@ -1,4 +1,4 @@
-<center># Hi 👋, I'm Harshita Gururaj Onkar</center>
+# Hi 👋, I'm Harshita Gururaj Onkar 
 
 ### 🚀 Aspiring Python Full Stack Developer
 
