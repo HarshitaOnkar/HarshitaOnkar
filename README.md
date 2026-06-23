@@ -37,10 +37,13 @@
 
 🍔 MealMate Food Ordering App
 Full-stack food ordering application with customer and vendor modules.
+
 🎯 Placement Readiness Platform
 A platform that helps students prepare for placements through learning resources, assessments, and progress tracking.
+
 💼 AI Resume Builder
 AI-powered resume creation and customization tool.
+
 📢 Job Notification Tracker
 Tracks and organizes job opportunities based on user preferences.
 
