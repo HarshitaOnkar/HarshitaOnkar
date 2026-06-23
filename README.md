@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**HarshitaOnkar/HarshitaOnkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Harshita Gururaj Onkar👋
 
-Here are some ideas to get you started:
+🎓 BE CSE Graduate (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Python Full Stack Developer
+
+⚡ Tech Stack
+- Python
+- Django
+- React
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Git & GitHub
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Advanced Full Stack Development
+
+🚀 Interested In
+- Web Development
+- Artificial Intelligence
+- Open Source
+
+📫 Reach Me
+- Email: harshitagonkar@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshita-onkar-fullstackdeveloper/
+
+⭐ Learning, Building and Growing Every Day
