@@ -9,7 +9,7 @@ Passionate about Web Development, AI, and Building Real-World Applications 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Python+Full+Stack+Developer;React+Developer;Django+Developer;Learning+DSA+and+System+Design&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Python+Full+Stack+Developer;Learning+DSA;&center=true&width=600&height=50">
 </p>
 
 ---
