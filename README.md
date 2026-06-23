@@ -50,7 +50,7 @@ Passionate about Web Development, AI, and Building Real-World Applications 🚀
 <a href="https://www.linkedin.com/in/harshita-onkar-fullstackdeveloper/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/HarshitaOnkar">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
 </a>
