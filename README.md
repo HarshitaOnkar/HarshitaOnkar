@@ -52,7 +52,7 @@ Passionate about Web Development, AI, and Building Real-World Applications 🚀
 </a>
 
 <a href="https://github.com/HarshitaOnkar">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
 </a>
 
 ---
