@@ -51,6 +51,7 @@ AI-powered resume creation and customization tool.
 
 
 📢 Job Notification Tracker
+
 Tracks and organizes job opportunities based on user preferences.
 
 ---
